@@ -1,4 +1,4 @@
-# deeplearning-from-scratch
+
 
 This proyect include a two tasks, both files can be run as they come.
 
